@@ -26,7 +26,7 @@ def run_query(query):
 		return cur.fetchall()
 
 
-rows = run_query("SELECT * FROM users LIMIT 10")
+rows = run_query("SELECT * FROM funds LIMIT 10")
 
 st.write(rows)
 
