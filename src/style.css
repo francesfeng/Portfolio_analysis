@@ -1,0 +1,86 @@
+/*body {
+    color: #fff;
+    background-color: #4F8BF9;
+}
+
+.stButton>button {
+    color: #4F8BF9;
+    border-radius: 50%;
+    height: 3em;
+    width: 3em;
+}*/
+
+.stTextInput>div>div>input {
+    color: #4F8BF9;
+}
+
+
+/* Input table display = None */
+.css-1j1bb3c {
+    display: inline;
+}
+
+.vega-embed summary {
+    display: none
+}
+
+#MainMenu {
+    visibility: hidden;
+}
+
+footer {
+    visibility: hidden;
+}
+
+
+.css-19n71yz{
+    font-family: sans-serif; /* body title font */
+}
+
+.css-1ht1j8u{
+    font-family: sans-serif; /* st.matric font */
+}
+
+h3{
+    font-family: sans-serif;  /* subtitle title font */
+}
+
+h2{
+    font-family: sans-serif;  /* subtitle title font */
+}
+
+h1{
+    font-family: sans-serif;  /* subtitle title font */
+}
+
+.st-ae{
+    font-family: sans-serif;  /* component title font */
+}
+
+body {
+    font-family: sans-serif;
+}
+
+code {
+    font-size: 1em;
+}
+
+
+.st-bq {
+    font-size: 14px;  /* expander font size */
+}
+
+/*.st-bq {
+    color: #9498AC;   expander font size 
+}
+*/
+
+h5 {
+    font-family: sans-serif; 
+    font-size: 18px;
+
+}
+
+.css-5dd3ww {
+    font-family: sans-serif;
+}
